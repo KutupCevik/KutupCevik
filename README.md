@@ -1,7 +1,6 @@
 <h1 align="left">Hi there 👋</h1>
 
-<h1>Hi 👋, I'm </h1>
-<p>A passionate frontend developer from </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KutupCevik&show_icons=true&locale=en" alt="KutupCevik" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KutupCevik&" alt="KutupCevik" /></p>
 
 
