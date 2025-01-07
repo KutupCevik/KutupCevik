@@ -1,5 +1,10 @@
 <h1 align="left">Hi there 👋</h1>
 
+<h1>Hi 👋, I'm </h1>
+<p>A passionate frontend developer from </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KutupCevik&" alt="KutupCevik" /></p>
+
+
 <!--
 **KutupCevik/KutupCevik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
